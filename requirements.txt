@@ -6,6 +6,6 @@ python-dotenv
 pinecone[grpc]
 langchain_openai
 langchain-pinecone
-langchain_community
+langchain-community
 langchain_experimental
 -e .
